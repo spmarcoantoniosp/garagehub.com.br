@@ -1,0 +1,10 @@
+Copie para esta pasta os arquivos .woff2 da Cooper Hewitt:
+
+  CooperHewitt-Book.woff2      (400 - corpo de texto)
+  CooperHewitt-Medium.woff2    (500 - botoes)
+  CooperHewitt-Semibold.woff2  (600 - reserva)
+  CooperHewitt-Bold.woff2      (700 - perguntas)
+  CooperHewitt-Heavy.woff2     (800 - marca e titulos)
+
+Sem eles as paginas funcionam, mas caem na pilha de reserva
+(Avenir Next, Segoe UI, Roboto, Helvetica, Arial).
