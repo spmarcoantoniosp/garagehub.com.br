@@ -1,4 +1,7 @@
-/* =========================================================================
+/* --- tipografia -----------------------------------------------------------
+   Cooper Hewitt servida dos .otf originais em /assets/fontes/, sem conversão
+   (SIL OFL 1.1, ver fontes/OFL.txt). Se faltarem, a pilha de fallback assume
+   sem quebrar o layout.                                                     *//* =========================================================================
    Garage Hub — folha base
    Rich Black domina. Garage Yellow é estrutura, nunca fundo de área grande.
    Corpo em 19px. Linha de leitura curta. Contraste alto no texto secundário.
@@ -10,17 +13,17 @@
    sem quebrar o layout.                                                     */
 @font-face {
   font-family: 'Cooper Hewitt';
-  src: local('Cooper Hewitt Book'), url('fontes/CooperHewitt-Book.woff2') format('woff2');
+  src: local('Cooper Hewitt Book'), url('fontes/CooperHewitt-Book.otf') format('opentype');
   font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
   font-family: 'Cooper Hewitt';
-  src: local('Cooper Hewitt Medium'), url('fontes/CooperHewitt-Medium.woff2') format('woff2');
+  src: local('Cooper Hewitt Medium'), url('fontes/CooperHewitt-Medium.otf') format('opentype');
   font-weight: 500; font-style: normal; font-display: swap;
 }
 @font-face {
   font-family: 'Cooper Hewitt';
-  src: local('Cooper Hewitt Heavy'), url('fontes/CooperHewitt-Heavy.woff2') format('woff2');
+  src: local('Cooper Hewitt Heavy'), url('fontes/CooperHewitt-Heavy.otf') format('opentype');
   font-weight: 800; font-style: normal; font-display: swap;
 }
 

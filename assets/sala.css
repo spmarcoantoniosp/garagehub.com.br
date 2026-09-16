@@ -2,11 +2,11 @@
    Sala de entrada — Garage Hub
    Motor compartilhado por /briefing e /bate-papo
    ========================================================================= */
-@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Book'),url('fontes/CooperHewitt-Book.woff2') format('woff2');font-weight:400;font-display:swap}
-@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Medium'),url('fontes/CooperHewitt-Medium.woff2') format('woff2');font-weight:500;font-display:swap}
-@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Semibold'),url('fontes/CooperHewitt-Semibold.woff2') format('woff2');font-weight:600;font-display:swap}
-@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Bold'),url('fontes/CooperHewitt-Bold.woff2') format('woff2');font-weight:700;font-display:swap}
-@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Heavy'),url('fontes/CooperHewitt-Heavy.woff2') format('woff2');font-weight:800;font-display:swap}
+@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Book'),url('fontes/CooperHewitt-Book.otf') format('opentype');font-weight:400;font-display:swap}
+@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Medium'),url('fontes/CooperHewitt-Medium.otf') format('opentype');font-weight:500;font-display:swap}
+@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Semibold'),url('fontes/CooperHewitt-Semibold.otf') format('opentype');font-weight:600;font-display:swap}
+@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Bold'),url('fontes/CooperHewitt-Bold.otf') format('opentype');font-weight:700;font-display:swap}
+@font-face{font-family:'Cooper Hewitt';src:local('Cooper Hewitt Heavy'),url('fontes/CooperHewitt-Heavy.otf') format('opentype');font-weight:800;font-display:swap}
 
 :root{
   --preto:#000;--amarelo:#FFAA32;--papel:#fff;

@@ -1,10 +1,12 @@
-Copie para esta pasta os arquivos .woff2 da Cooper Hewitt:
+Cooper Hewitt, arquivos .otf originais, sem conversao nem subconjunto.
 
-  CooperHewitt-Book.woff2      (400 - corpo de texto)
-  CooperHewitt-Medium.woff2    (500 - botoes)
-  CooperHewitt-Semibold.woff2  (600 - reserva)
-  CooperHewitt-Bold.woff2      (700 - perguntas)
-  CooperHewitt-Heavy.woff2     (800 - marca e titulos)
+  CooperHewitt-Book.otf      (400 - corpo de texto)
+  CooperHewitt-Medium.otf    (500 - botoes)
+  CooperHewitt-Semibold.otf  (600 - reserva)
+  CooperHewitt-Bold.otf      (700 - perguntas)
+  CooperHewitt-Heavy.otf     (800 - marca e titulos)
 
-Sem eles as paginas funcionam, mas caem na pilha de reserva
-(Avenir Next, Segoe UI, Roboto, Helvetica, Arial).
+Copyright (c) 2014, Cooper Hewitt Smithsonian Design Museum, com nome
+reservado "Cooper Hewitt". Licenca SIL Open Font License 1.1, em OFL.txt.
+Converter para WOFF/WOFF2 conta como modificacao pela OFL e exigiria
+renomear a fonte; por isso os originais sao servidos como estao.
