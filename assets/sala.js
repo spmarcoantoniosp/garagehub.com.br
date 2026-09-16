@@ -9,7 +9,7 @@
 /* ---------- configuração: preencher antes de publicar --------------------- */
 var ENVIO = {
   url: 'https://api.web3forms.com/submit',
-  chave: 'COLE_AQUI_A_ACCESS_KEY_DO_WEB3FORMS',
+  chave: 'de7403d5-56b8-4269-b8b2-5ee478df2ab2',
   destino: 'facilitadores@garagecriativa.com.br'
 };
 
